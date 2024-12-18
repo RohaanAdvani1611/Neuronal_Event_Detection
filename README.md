@@ -1,7 +1,9 @@
 # DeepLearning_FinalProject
 
 
+## Metrics
+![ROC](./PrecisionRecallCurve.png)
 
-![ROC](./ROCcurve.png)
 
-This is my project description.
+Impact of Training Size on Dataset
+![Training Size](./TestvsTrainingSize.png)
